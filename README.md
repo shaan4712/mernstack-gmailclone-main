@@ -2,22 +2,21 @@ The project is being built using Vite + ReactJS.
 
 ## To run the project on the local-system:
 
-1. Fork the repo
-2. Clone the repo
+1. Fork the repository
+2. Clone the repository
    ```sh
-   git clone https://github.com/shaan4712/iiser-berhampur.git
+   git clone [https://github.com/shaan4712/mernstack-gmailclone-main.git]
    ```
-3. move to directory: `caif`
-4. Install the required dependencies
+3. Install the required dependencies (in both frontend & backend directories)
    ```sh
    npm install
    ```
-5. Run the project
+4. Run Frontend 
    ```sh
    npm run dev
    ```
-6. Run the server in parallel with the frontend by navigating to the directory: `server`
+5. Run the server in parallel with the frontend by navigating to the directory: `backend`
    ```sh
-   node index.js
+   npm run dev
    ```
-7. The client side run on http://localhost:5173/ (by default) and the server on http://localhost:5000/ 
+6. The client side run on http://localhost:5173/ (by default) and the server on http://localhost:8080/ 

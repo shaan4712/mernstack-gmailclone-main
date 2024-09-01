@@ -11,7 +11,7 @@ The project is being built using Vite + ReactJS.
    ```sh
    npm install
    ```
-4. Run Frontend 
+4. Run Frontend by navigating to the directory: `frontend`
    ```sh
    npm run dev
    ```

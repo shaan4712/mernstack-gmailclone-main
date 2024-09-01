@@ -1,3 +1,0 @@
-zS3Anks5zVbjUBl5
-
-mongodb+srv://shaan2k3:zS3Anks5zVbjUBl5@cluster0.ijtdt.mongodb.net/

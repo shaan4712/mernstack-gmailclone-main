@@ -42,7 +42,7 @@ const Login = () => {
 
     return (
         <div className='flex items-center justify-center w-screen h-screen'>
-            <form onSubmit={submitHandler} className='flex flex-col gap-3 bg-white p-4 w-[20%]'>
+            <form onSubmit={submitHandler} className='flex flex-col gap-3 bg-white p-4 w-[20%] shadow-xl'>
                 <h1 className='font-bold text-2xl uppercase my-2'>Login</h1>
                 <input onChange={changeHandler} value={input.email} name="email" type='email' placeholder='Email' className='border border-gray-400 rounded-md px-2 py-1' />
                 <input onChange={changeHandler} value={input.password} name="password" type='password' placeholder='Password' className='border border-gray-400 rounded-md px-2 py-1' />
